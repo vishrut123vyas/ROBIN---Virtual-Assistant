@@ -15,7 +15,7 @@ import math
 import time
 
 # Configuration
-NEWS_API_KEY = "3d9f6cdf8cac4e79a4f1f8310ce26e25"
+NEWS_API_KEY = ""
 OPENAI_API_KEY = "<yourapikey>"  # Update this with your API key
 
 # Initialize recognizer
